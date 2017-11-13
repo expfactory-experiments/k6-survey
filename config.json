@@ -2,6 +2,7 @@
     "name": "K6+ Survey",
     "template":"survey",
     "description": "experiment factory survey",
+    "url": "https://github.com/expfactory-experiments/k6-survey",
     "instructions": "Please answer the following questions to the best of your ability",
     "exp_id": "k6-survey",
     "contributors": [
