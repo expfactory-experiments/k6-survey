@@ -1,0 +1,16 @@
+{
+    "name": "K6+ Survey",
+    "template":"survey",
+    "description": "experiment factory survey",
+    "instructions": "Please answer the following questions to the best of your ability",
+    "exp_id": "k6-survey",
+    "contributors": [
+             "Ian Eisenberg",
+             "Zeynep Enkavi",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":3
+}
+
